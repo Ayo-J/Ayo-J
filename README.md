@@ -5,7 +5,7 @@
 
 
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
-<h4>                                 </h4><p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
+<h4> "                                "</h4><p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
 
 
 
