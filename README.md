@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayodhya Weerabahu</h1>
 
-<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" width="3000px" height="300px"/>
+<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" width="3000px" height="350px"/>
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
 
 
