@@ -1,7 +1,7 @@
 
 
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" width="3000px" height="300px"/>
-<p>________________________________________<img align="center" src="https://api.products.aspose.app/slides/api/Common/DownloadFile/c1e0144c-5fc6-4a81-96f7-1073b1bef492?file=result.gif" alt="januayodya" />__________________________________</p>
+<p>_____________________________________<img align="center" src="https://api.products.aspose.app/slides/api/Common/DownloadFile/c1e0144c-5fc6-4a81-96f7-1073b1bef492?file=result.gif" alt="januayodya" />__________________________________</p>
 
 
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
