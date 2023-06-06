@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=januayodya&" alt="januayodya" /></p>
 
 
-<h3 align="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=januayodya&">Graphic Designer - UI/UX Enthusiast </h3>
+<h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
 
 
 
