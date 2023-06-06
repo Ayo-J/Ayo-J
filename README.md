@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" width="3000px" height="350px"/>
 
-<img src="https://api.products.aspose.app/slides/api/Common/DownloadFile/bbaa9379-b19b-4221-8965-98d3309e57f8?file=result.gif" width="3000px" height="350px"/>
+<img src="https://api.products.aspose.app/slides/api/Common/DownloadFile/6dfb944d-1461-49a5-90b4-616ac8c13316?file=result.gif" width="300px" height="100px"/>
 
 <h1 align="center">Hi 👋, I'm Ayodhya Weerabahu</h1>
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
