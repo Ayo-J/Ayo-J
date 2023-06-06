@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayodhya Weerabahu</h1>
 
-<img src="https://media.tenor.com/xFUGScgp7V8AAAAC/computer-code.gif" width="3000px" height="300px"/>
+<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" height="300px"/>
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
 
-<p align="left"> <img src="https://media.tenor.com/xFUGScgp7V8AAAAC/computer-code.gif" alt="januayodya" /> </p>
+
 
 - 🌱 I’m currently learning **Management Information System**
 
