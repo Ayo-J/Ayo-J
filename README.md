@@ -1,8 +1,7 @@
 
 
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" width="3000px" height="350px"/>
-
-<p><img align="center" src="https://api.products.aspose.app/slides/api/Common/DownloadFile/c1e0144c-5fc6-4a81-96f7-1073b1bef492?file=result.gif" width="350px" height="100px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=januayodya&" alt="januayodya" /></p>
 
 
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
