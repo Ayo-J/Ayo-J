@@ -1,11 +1,11 @@
 
 
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" width="3000px" height="350px"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=januayodya&" alt="januayodya" /></p>
+<p>"........................................................................................"<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=januayodya&" alt="januayodya" /></p>
 
 
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
-<h4> "                                "</h4><p style="text-align:center;"><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="Logo"></p>
+
 
 
 
