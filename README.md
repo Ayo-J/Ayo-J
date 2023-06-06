@@ -3,7 +3,7 @@
 <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" width="3000px" height="300px"/>
 <h3 align="center">Graphic Designer - UI/UX Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=januayodya&label=Profile%20views&color=0e75b6&style=flat" alt="januayodya" /> </p>
+<p align="left"> <img src="https://media.tenor.com/xFUGScgp7V8AAAAC/computer-code.gif" alt="januayodya" /> </p>
 
 - 🌱 I’m currently learning **Management Information System**
 
