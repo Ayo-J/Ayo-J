@@ -117,4 +117,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=wmajanu)
