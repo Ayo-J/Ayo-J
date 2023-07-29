@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><b>Hi , I'm Janu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Janu </b><img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D784067455&psig=AOvVaw17mcfh2CK4SNsz2e6SVXwH&ust=1690730091302000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPDQgpqatIADFQAAAAAdAAAAABAD)" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
