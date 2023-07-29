@@ -9,10 +9,6 @@
 
 
 
-- 🌱 I’m currently learning----- **Management Information System**
-
-- 📫 How to reach me ----- **ayodhyaweerabahu@gmail.com**
-
 
 <p align="left">
 </p>
