@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Welcome!](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" height="400"/>
+<img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width="100%" height="400"/>
 
 </div>
 
