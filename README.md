@@ -21,7 +21,7 @@
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
----
+
 
 
 
@@ -35,9 +35,6 @@
 
 
 
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
-</div>
 
 
 [![@jiyanpatil07's Holopin board](https://holopin.me/januayodya)](https://holopin.io/@januayodya)
