@@ -1,6 +1,6 @@
 <div align="center">
 <h1><a href="https://fontmeme.com/sinhala/"><img src="https://fontmeme.com/permalink/231121/2722764a153c0d655f63992e5183595b.png" alt="sinhala" border="0"></a></h1>
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=A52FF7&center=true&vCenter=true&random=false&width=435&lines=AJ++%E3%81%AE++GIT;Web+Developer;UI%2FUX+Designer;Blogger" alt="Typing SVG" /></a></h1>
+<!--<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=A52FF7&center=true&vCenter=true&random=false&width=435&lines=AJ++%E3%81%AE++GIT;Web+Developer;UI%2FUX+Designer;Blogger" alt="Typing SVG" /></a></h1>
 
 </div>
 
@@ -53,14 +53,11 @@ Here are some ideas to get you started:
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AJ-me&theme=dark&show_icons=true&count_private=true" />
+  <!--<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AJ-me&theme=dark&show_icons=true&count_private=true" />-->
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AJ-me&theme=dark&hide_border=false" /> 
+ <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AJ-me&theme=dark&hide_border=false" /> -->
 </td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AJ-me&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -100,9 +97,7 @@ Here are some ideas to get you started:
 -->
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
   
 </div>
 
