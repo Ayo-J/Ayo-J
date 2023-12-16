@@ -23,7 +23,6 @@
 
 ---
 
-<i>Follow me around the web:</i><br>
 
 
 
