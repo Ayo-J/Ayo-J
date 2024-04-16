@@ -11,7 +11,7 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=Ayo-J&label=PROFILE+VIEWS)
+
 
 
 <div align="center">
@@ -40,6 +40,8 @@
 
 
 [![@jiyanpatil07's Holopin board](https://holopin.me/januayodya)](https://holopin.io/@januayodya)
+
+![](https://komarev.com/ghpvc/?username=Ayo-J&label=PROFILE+VIEWS)
 
 
 
