@@ -34,12 +34,6 @@
 
 <hr/>
 
-<div align="center">
-  <h3 align="center">Support:</h3>
-  <a href="https://www.buymeacoffee.com/yogaprasadmk" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-  </a>
-</div>
 
 <br>
 
