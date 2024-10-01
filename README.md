@@ -65,14 +65,4 @@
 
 <br>
 
-<div align="center">
-  [![@jiyanpatil07's Holopin board](https://holopin.me/januayodya)](https://holopin.io/@januayodya)
-</div>
-
-<br>
-
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=Ayo-J&label=PROFILE+VIEWS)
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
