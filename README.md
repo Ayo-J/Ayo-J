@@ -11,6 +11,58 @@
 </div>
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yogaprasadk/yogaprasadk/output/snake.svg" alt="Snake animation" width=2000/>
+  </div>
+
+</div>
+<hr/>
+<div>
+  <div align="center">
+  <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
+  <br/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ca6b7-94da-4440-b462-39b06274f277/b826ac4e-11df-4560-a4e1-97225ddc34d8.png" /></a>
+</div>
+</div>
+<br/>
+<hr/>
+
+<div align="center">
+  <h3 align="center">✍️Random Dev Quote</h3>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes"/>
+</div>
+<hr/>
+
+<div align="center">
+  <h3 align="center">😂Random Dev Jokes</h3>
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width=600/>
+</div>
+<hr/>
+
+<div align="center">
+  <h3 align="center">Support:</h3>
+  <a href="https://www.buymeacoffee.com/yogaprasadmk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
+<br/>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+%E2%9C%8C;Shoot+a+message+on+Linkedin+%3A);I+am+always+down+to+collab" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+<div align="center">
+  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+  &copy; 2024 Yogaprasad M K
+</div>
+
+
+
+
+
+
 
 
 
@@ -18,10 +70,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ-me&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AJ-me's Github Stats">
 
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+
 
 
 
